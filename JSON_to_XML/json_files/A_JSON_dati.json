@@ -1,0 +1,19 @@
+{
+    "order": {
+        "status": "packed",
+        "total_grams": 500,
+        "client_id": "1111CT11111",
+        "items": [
+            {
+                "product_id": "334123QW56TY5",
+                "quantity": 4,
+                "sku": "SKU-1"
+            },
+            {
+                "product_id": "5425PT1734220",
+                "quantity": 1,
+                "sku": "SKU-6"
+            }
+        ]
+    }
+}
